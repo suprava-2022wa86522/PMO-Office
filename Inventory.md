@@ -1,0 +1,7 @@
+# PMO Inventory
+
+## Project Assets
+
+- Laptop
+- Project Documents
+- Inventory Initialized
