@@ -5,3 +5,4 @@
 - Laptop
 - Project Documents
 - Inventory Initialized
+- Project Plan Added
