@@ -6,3 +6,4 @@
 - Project Documents
 - Inventory Initialized
 - Project Plan Added
+- Team Members Assigned
